@@ -1,0 +1,5 @@
+Gerando uma generator através de um trigger
+
+Existe alguma forma de poder gerar o nº max. de uma chave primária, numa inserção (um ideia parecida com o generator).
+
+Mas eu não quero utilizar o generator pelo motivo que ele não reaproveita o número, caso eu cancele a inserção
